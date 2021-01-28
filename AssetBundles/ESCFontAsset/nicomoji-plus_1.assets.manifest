@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3174024544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a2acc2a73a92be566b38e02cb6163d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 054d10b74a466bf127f489fbb4383871
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/FontFile/nicomoji-plus_1.asset
+Dependencies: []
