@@ -13,8 +13,12 @@ EnhancedStreamChat向けフォント作成プロジェクトです。
 4.FontAssetCreatorにてSource Font File以外を同じ値にします。  
 ![image](https://user-images.githubusercontent.com/55026301/106468664-9549e800-64e1-11eb-8715-5724451f348c.png)  
   
-5.Generate Font Atlasを押してお茶と饅頭を用意してまったりしてください。  
-6.Saveを押して完成。  
+  
+5.InspectorのGenerationSettingsにあるAtlas Population ModeをStaticに変更します。  
+![image](https://user-images.githubusercontent.com/55026301/109971874-0a574a00-7d3a-11eb-8f6d-0a3ba9809c32.png)
+  
+6.Generate Font Atlasを押してお茶と饅頭を用意してまったりしてください。  
+7.Saveを押して完成。  
   
 # Asset Bundleの作り方  
 ※Asset Bundle BrowserがツールバーのWindowにない人はPackageManagerから検索してInstallポチってください  
